@@ -12,6 +12,8 @@ SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
 
+print("SUPABASE_URL:", SUPABASE_URL)
+print("SUPABASE_KEY:", SUPABASE_KEY[:5] + "…")  # just show first 5 chars for safety
 
 API_KEY = "1a323e5e4e424388f7deb6f1ae9a1342".strip()
 CITY_IDS = [
