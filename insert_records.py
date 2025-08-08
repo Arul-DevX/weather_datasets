@@ -17,8 +17,8 @@ DB_CONFIG = {
     "password": "tiger",
     "database": "weather_database"
 }
-LOOP_COUNT = 50
-SLEEP_SECONDS = 5
+LOOP_COUNT = 1
+SLEEP_SECONDS = 800
 # ---------------------------------
 
 # Connect to MySQL
