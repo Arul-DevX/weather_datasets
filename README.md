@@ -176,5 +176,5 @@ MIT License — free to use and modify.
 ---
 
 👤 **Author:** Your Name — Data Analyst
-📧 [your.email@example.com](mailto:your.email@example.com)
+📧 [arulraman77@gmail.com](mailto:arulraman77@gmail.com)
 💼 LinkedIn | 🐙 GitHub
